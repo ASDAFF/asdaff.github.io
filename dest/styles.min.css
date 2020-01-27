@@ -906,7 +906,7 @@ footer ul li a.nice-link:after {
 #main .world #hello > div > div:nth-of-type(2) {
     left: -3px;
     top: 80%;
-    width: 120%;
+    width: 125%;
     height: auto;
     border: none;
     overflow: hidden;
@@ -965,7 +965,7 @@ footer ul li a.nice-link:after {
     letter-spacing: .5em;
     bottom: -1%;
     left: 92%;
-    font: 100 7% 'Open Sans';
+    font: 100 10% 'Open Sans';
 }
 
 #main .world #hello > div > div:nth-of-type(2) > div .big > strong span::first-letter {
