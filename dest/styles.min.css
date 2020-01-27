@@ -927,7 +927,7 @@ footer ul li a.nice-link:after {
 
 #main .world #hello > div > div:nth-of-type(2) > div strong, #main .world #hello > div > div:nth-of-type(2) > div a {
     font-weight: 700;
-    color: #0584fa;
+    color: #782626;
 }
 
 #main .world #hello > div > div:nth-of-type(2) > div strong:after, #main .world #hello > div > div:nth-of-type(2) > div a:after {
@@ -1023,7 +1023,7 @@ footer ul li a.nice-link:after {
 }
 
 #like-slider li {
-    color: #57748f;
+    color: #782626;
 }
 
 html.no-js #main .world, #main.play .world {
