@@ -1113,7 +1113,7 @@ html.no-js #main #hello > div > div:nth-of-type(2) > div .big > strong, #main.pl
     -moz-transition: text-indent font-size .4s .8s cubic-bezier(.24, 0, .13, 1.44);
     -o-transition: text-indent font-size .4s .8s cubic-bezier(.24, 0, .13, 1.44);
     transition: text-indent font-size .4s .8s cubic-bezier(.24, 0, .13, 1.44);
-    font-size: 520%;
+    font-size: 500%;
 }
 
 html.no-js #main #main-skills, #main.play #main-skills {
