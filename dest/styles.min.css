@@ -968,9 +968,9 @@ footer ul li a.nice-link:after {
     font: 100 10% 'Open Sans';
 }
 
-#main .world #hello > div > div:nth-of-type(2) > div .big > strong span::first-letter {
+/*#main .world #hello > div > div:nth-of-type(2) > div .big > strong span::first-letter {
     color: white;
-}
+}*/
 
 #main .world #hello > div .ello {
     -webkit-transform: rotate(20deg);
